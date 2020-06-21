@@ -2,7 +2,9 @@
 
 * [Introduction](README.md)
 * python
+  * base
+    * [virtualenv](python/base/virtualenv.md)
   * database
-    * [hive](Python/DataBase/Hive.md)
+    * [hive](python/database/hive.md)
 * other
   * [Gitbook Guide](Gitbook/Guide.md)
