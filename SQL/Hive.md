@@ -25,3 +25,8 @@ FIELDS TERMINATED BY ',';
 | -- | -- |
 | `drop table db.table` | 删表 |
 | `truncate table db.table` | 删表中数 |
+| `alter table table drop partition(dt='')` | 删除表分区 |
+
+finance_member_sale 2019-02-01 - 2020-04-01
+finance_note_list 2019-02-01 - 2020-03-01
+finance_reward_user 2019-02-01 - 2020-03-01
